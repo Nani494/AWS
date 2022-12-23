@@ -1,5 +1,5 @@
 ## Deploy Application
-     'kubectl apply -f deploy.yml'
+     'kubectl apply -f deploy.yaml'
      
 ## Start services of deployed application
-     'kubectl apply -f service.yml'
+     'kubectl apply -f service.yaml'
